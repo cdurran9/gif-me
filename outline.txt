@@ -1,0 +1,21 @@
+* Landing page: shows options to create or join a session
+* Create lets you pick a couple of options
+    * Game mode, if I do more than one
+    * Filter strength (G, PG, PG-13, R)
+    * Rounds...maybe
+* Join has you input a code, then matches you to the game
+* Game Starts
+* Mode A: players input a few funny prompts for memes, like "My face when my dog throws up on the carpet at 2am"
+    * Players take turns picking a prompt that is then given to all the players
+    * Players then get 3-5 random gifs and pick the best one to fit the prompt
+* Mode B: reverse of Mode A
+    * Players take turns picking one out of a small random group of gifs, which are then given to all the players
+    * Each player submits their best caption for the gif. Alternatively, this could be done 1v1 in the style of Quiplash
+* Mode C: hybrid?
+    * Do it Tee K.O. style, where you all submit funny prompts, and then you create the best combo out of your three prompts
+    * and three random gifs
+* Game shows the funnies, and players vote on the most funniest
+* Points are awarded
+* Shows a leaderboard at the end of each round.
+* Determines a winner
+* Host can choose to play again or quit
